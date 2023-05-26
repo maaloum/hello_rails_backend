@@ -4,8 +4,11 @@ class Api::V1::GreetingsController < ApplicationController
   # GET /greetings
   def index
     @greetings = Greeting.all
-
-    render json: @greetings
+    if @greetings.empty?
+      render json: { message: 'Sorry, nothing to show' }
+    else
+      @greet = @greetings.sample
+      render json: @greet
   end
 
   # GET /greetings/1
