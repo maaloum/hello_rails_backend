@@ -72,7 +72,7 @@ ruby on rails
 
 ### Setup
 
-- Clone this repository by running `git clone https://github.com/Dmambo/hello-rails-back-end.git` in your command line.
+- Clone this repository by running `git clone https://github.com/maaloum/hello_rails_backend.git` in your command line.
 
 - Navigate to the repository by running `cd hello-rails-back-end`.
 
@@ -93,11 +93,11 @@ ruby on rails
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **DIABY MOHAMMED IBRAHIM**
+👤 **Maaloum Ely Cheick**
 
-- [GitHub](https://github.com/dmambo)
-- [Twitter](https://twitter.com/kingibro345)
-- [LinkedIn](https://www.linkedin.com/in/dmambo/)
+- [GitHub](https://github.com/maaloum)
+- [Twitter](https://twitter.com/maaloum)
+- [LinkedIn](https://www.linkedin.com/in/maaloum/)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
