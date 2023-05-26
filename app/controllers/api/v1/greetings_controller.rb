@@ -9,6 +9,7 @@ class Api::V1::GreetingsController < ApplicationController
     else
       @greet = @greetings.sample
       render json: @greet
+    end
   end
 
   # GET /greetings/1
